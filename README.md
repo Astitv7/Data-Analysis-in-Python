@@ -1,4 +1,4 @@
-# Data-Analysis-in-Python
+# Data Analysis using pandas 
 
 ## [Data Analysis 1](https://github.com/Astitv7/Data-Analysis-in-Python/blob/master/Data%20Analysis%201.ipynb) consist of:
 #### 1) Read tabular data files in pandas.
